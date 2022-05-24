@@ -47,8 +47,8 @@ N/A
 
 👤 **Diego Yon**
 
-- GitHub: [@githubhandle](https://github.com/diegoyon)
-- Twitter: [@twitterhandle](https://twitter.com/diegoyon)
+- GitHub: [@diegoyon](https://github.com/diegoyon)
+- Twitter: [@diegoyon](https://twitter.com/diegoyon)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/diego-yon-9311aa41/)
 
 ## 🤝 Contributing
